@@ -16,3 +16,16 @@ console.log(array1);
 console.log(array1.length);
 console.log(str);
 console.log(str.length);
+
+
+// Object Literal 
+let array3 =str.split(".").reverse();
+console.log(array3);
+let student = {
+    name : "Alok",
+    age : 20,
+    city : "Ilaaka Doon City"
+}
+student.car = "Supra MK4";
+console.log(student);
+
