@@ -12,3 +12,10 @@ let sum1 = (name) => {
     console.log("Hey",name);
 }
 sum1("Sam");
+
+
+// Function Expression
+let x= function(){
+  console.log("This is Function Expression");
+}
+x();

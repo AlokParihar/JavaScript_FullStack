@@ -12,4 +12,12 @@ function subs(){
 sum();
 subs();
 
+// Regular Function
+function add(a, b){
+    return a + b;
+}
 
+function ved()
+{
+    console.log("Printing Press of Ved");
+};

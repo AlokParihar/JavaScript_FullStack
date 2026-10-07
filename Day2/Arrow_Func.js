@@ -1,4 +1,5 @@
-// Code 1
+//Arrow Functions is 
+// // Code 1
 let multiply= (x, y) => {
     return x*y;
 }

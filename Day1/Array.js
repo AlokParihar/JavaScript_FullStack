@@ -17,6 +17,7 @@ console.log(data2[4]);
 console.log(data2[5]);
 console.log(typeof data2[5]);
 data2.push(60);
+//Methods of Array
 console.log(data2);
 data2.push("Sanika"); // to add an element at the end of the array
 console.log(data2);
