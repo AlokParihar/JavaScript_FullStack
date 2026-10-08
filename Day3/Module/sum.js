@@ -3,3 +3,6 @@ function sum(a,b){
   //  return a+b;
 }
 export default sum;
+
+let userlist=["Alok","Sanika","Akuu"];
+export {userlist};
