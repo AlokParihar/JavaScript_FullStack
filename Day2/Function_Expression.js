@@ -1,7 +1,7 @@
 let sum = function(name){
   console.log("hey",name);
 }
-sum("Sam");
+sum("Sanuu");
 
 
 
@@ -13,6 +13,10 @@ let sum1 = (name) => {
 }
 sum1("Sam");
 
+let z=(ch)=>{
+  console.log("This is Arrow Function");
+}
+z();
 
 // Function Expression
 let x= function(){
